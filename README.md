@@ -1,5 +1,5 @@
 # *Kickstarter Fundraising Analysis*
-![Funding by Cat](C:\Users\Benjamin.Landes\Desktop\Data Bootcamp\Mod1 Excel etc\Module 1 Challenge\resources\ Outcomes_vs_Goals.png)
+![Funding by Cat](https://github.com/blandes37/Images/blob/master/Outcomes_vs_Goals.png?raw=true)
 
 ## *Project Overview*
 This study analyzed Kickstarter funding campaigns from 2007 to 2017 to determine which factors drive successful campaigns.
