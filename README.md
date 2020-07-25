@@ -1,5 +1,5 @@
 # *Kickstarter Fundraising Analysis*
-![Funding by Cat](https://drive.google.com/file/d/1bxTJfA38jQXgGFvIEiMObaifemrJ4QTE/view?usp=sharing)
+![Funding by Cat](C:\Users\Benjamin.Landes\Desktop\Data Bootcamp\Mod1 Excel etc\Module 1 Challenge\resources\ Outcomes_vs_Goals.png)
 
 ## *Project Overview*
 This study analyzed Kickstarter funding campaigns from 2007 to 2017 to determine which factors drive successful campaigns.
@@ -48,4 +48,4 @@ While the success rate does show loose negative correlation to the funding foal,
 -The dataset offers very little insight on several factors that could have meaningful impacts on the outcomes and amounts raised. The geographic data only identifies the country where the funding will be used, but not the city, or neighborhood. Demographics, local preferences and even the accessibility of the venue could all be hidden variables that our analysis overlooked. The dataset also fails to consider the genre of the play, the experience of the organizer and the quality of the cast. While the “blerb” column offers some insights, it would be extremely tedious to extract the relevant information.
 
 *4.) What are some other possible tables and/or graphs that we could create?*
--It was helpful to add the graph showing the proportion of successful campaigns to add color the analysis on outcomes by date.
+-It was helpful to add the graph showing the proportion of successful campaigns to add color the analysis on outcomes by date and funding by category (pictured above)
