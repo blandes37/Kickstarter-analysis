@@ -21,11 +21,10 @@ A clear trend emerged from the analysis that shows that most successful theater 
 ### *Analysis of Outcomes Based on Goals*
 The correlation between goal amount and success rate is less obvious, with a subtle negative trend across most of the graph (pictured below). However, as the funding goal amount approaches the upper bound of the range, near $50,000, a sharp decline in successful campaigns occurs.
 
-![Outcome by Goal chart]https://github.com/blandes37/Images/blob/master/Outcomes_vs_Goals.png?raw=true)
+![Outcome by Goal chart](https://github.com/blandes37/Images/blob/master/Outcomes_vs_Goals.png?raw=true)
 
 ### *Challenges and Difficulties Encountered*
 The data used span the globe, but this study examined only campaigns in the United States. This study would have had not have had such a robust data set were it to have been focused on less wealthy nations. This issue could have been addressed by expanding the sample to include neighboring nations’ statistics in the analysis.
-
 
 
 ## *Results*
